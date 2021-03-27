@@ -9,6 +9,8 @@
 ### Páginas a visitar 
 
 - [Open air site](https://bookdown.org/david_carslaw/openair/sec-openair-package.html)
-
+- [Pollution in Europa](https://aqicn.org/map/europe/)
+- [Sistema de información nacional de Calidad del aire](https://sinca.mma.gob.cl/)
+- [Air quality data](https://discomap.eea.europa.eu/map/fme/AirQualityExport.htm)
 
 
